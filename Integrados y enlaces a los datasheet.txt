@@ -1,0 +1,17 @@
+Para el proyecto se trabajará con integrados de la familia CMOS (Complementary Mosfet).
+
+Integados que se incorporarán en el proyecto: 
+-Integrado de 4 compuertas AND con 2 entradas, sería el CD4081B. Enlace: https://www.alldatasheet.com/datasheet-pdf/view/26888/TI/CD4073B.html
+
+-Integrado de 3 compuertas AND con 3 entradas, sería el CD4073B. Enlace: https://www.alldatasheet.com/datasheet-pdf/view/26888/TI/CD4073B.html
+
+-Integrado de 2 compuertas AND con 4 entradas, sería el CD4082B. Enlace: https://www.alldatasheet.com/datasheet-pdf/view/26888/TI/CD4073B.html
+
+-Integrado de 4 compuertas OR con 2 entradas, sería el CD4071B. Enlace: https://www.alldatasheet.com/datasheet-pdf/view/26903/TI/CD4071.html
+
+-Integrado de 6 inversores (NOT), sería el CD4049. Enlace: https://www.alldatasheet.com/datasheet-pdf/view/26882/TI/CD4049.html
+
+-Integrado de 4 compuertas XOR de 2 entradas, sería el CD4070B. Enlace: https://www.alldatasheet.com/datasheet-pdf/view/26894/TI/CD4070.html
+
+-Integrado de 4 compuertas NOR de 2 entradas, sería el CD4001B. Enlace: https://www.alldatasheet.com/datasheet-pdf/view/26834/TI/CD4001.html
+
