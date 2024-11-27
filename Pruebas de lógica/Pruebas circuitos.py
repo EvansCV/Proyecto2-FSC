@@ -41,8 +41,16 @@ def asignar_valores(valores):
 
 # Secuencia para probar
 valores_prueba = [
-    [0, 0, 0, 0], #0
-    
+    [0, 0, 0, 0],
+    [0, 0, 0, 1], #1
+    [0, 0, 1, 0], #2
+    [0, 0, 1, 1], #3
+    [0, 1, 0, 0], #4
+    [0, 1, 0, 1], #5
+    [0, 1, 1, 0], #6
+    [0, 1, 1, 1], #7
+    [1, 0, 0, 0], #8
+    [1, 0, 0, 1], #9
 ]
 
 
@@ -50,7 +58,7 @@ while True:
     for valores in valores_prueba:
         print(f"Asignando: {valores}")
         asignar_valores(valores)
-        time.sleep(5)  # Espera para observar los cambios'''
+        time.sleep(10)  # Espera para observar los cambios'''
     
 '''[0, 0, 0, 1], #1
     [0, 0, 1, 0], #2
